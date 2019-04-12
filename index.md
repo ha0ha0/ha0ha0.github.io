@@ -4,8 +4,8 @@ author_profile: true
 classes: wide
 title: ""
 client-logo:
-  - url: "/assets/logo/smartlensfinder_logo.png"
-    image_path: "/assets/logo/smartlensfinder_logo.png"
+  - url: "/assets/images/logo/smartlensfinder_logo.png"
+    image_path: "/assets/images/logo/smartlensfinder_logo.png"
     alt: "캐논스마트렌즈파인더"
 ---
 
