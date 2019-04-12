@@ -22,7 +22,7 @@ client-logo:
 <!-- <i class="fa fa-moon fa-1x"></i> Moonlight **Side Job** -->
 
 ## <i class="fa fa-briefcase fa-1x"></i> Work Experience
-|{% include flexgallery id="client-logo"%}          |Canon SmartLensFinder 
+|(/assets/images/logo/smartlensfinder_logo.png)   |Canon SmartLensFinder 
 |---:          |:---
 |Period        |2017.01 ~ 05
 |Position(Role)|퍼블리셔 (100%)
