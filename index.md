@@ -22,20 +22,13 @@ client-logo:
 <!-- <i class="fa fa-moon fa-1x"></i> Moonlight **Side Job** -->
 
 ## <i class="fa fa-briefcase fa-1x"></i> Work Experience
-|{% include flexgallery id="client-logo"%}  |Canon SmartLensFinder 
+<!--|{% include flexgallery id="client-logo"%}  |Canon SmartLensFinder -->
+|!(smartlensfinder_logo)(/assets/images/logo/smartlensfinder_logo.png)  |Canon SmartLensFinder 
 |---:          |:---
 |Period        |2017.01 ~ 05
-|Position(Role)|퍼블리셔 (100%)
+|Position(Role)|퍼블리셔 (100%)
 |Technology    |HTML, CSS, jQuery, javascript, swipe
 |Description   |웹, 모바일, 앱으로 구성 / 기획, 개발팀과 함께 단독 구현으로 프로젝트를 진행하였습니다. 
 |Url           |[http://www.smartlensfinder.co.kr/](http://www.smartlensfinder.co.kr/){:target="_blank"}
-
-|Logo          |Canon SmartLensFinder 
-| :---:        |:---:
-|Period        |2017.01 ~ 05
-|Position(Role)|퍼블리셔 (100%)
-|Technology    |HTML, CSS, jQuery, javascript, swipe
-|Description   |웹, 모바일, 앱으로 구성 / 기획, 개발팀과 함께 단독 구현으로 프로젝트를 진행하였습니다. 
-|Url           |http://www.smartlensfinder.co.kr/
 
 ---
