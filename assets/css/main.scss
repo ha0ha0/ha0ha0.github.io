@@ -6,3 +6,25 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+* {font-family:"Noto Sans KR", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif,/*'BM JUA', 'nanumGothic', 'Dotum', sans-serif;*//*letter-spacing:-1px;*/}
+html {
+    font-size: 14px; // change to whatever
+
+    @include breakpoint($medium) {
+      font-size: 16px; // change to whatever
+    }
+
+    @include breakpoint($large) {
+      font-size: 18px; // change to whatever
+    }
+
+    @include breakpoint($x-large) {
+      font-size: 20px; // change to whatever
+    }
+}
+
+.page__content p,.page__content li,.page__content dl{
+    font-size:0.75em;
+}
