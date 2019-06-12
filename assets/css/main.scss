@@ -6,6 +6,7 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import url('https://fonts.googleapis.com/css?family=Neucha');
 
 
 * {font-family:"Noto Sans KR", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif,/*'BM JUA', 'nanumGothic', 'Dotum', sans-serif;*//*letter-spacing:-1px;*/}
@@ -27,4 +28,31 @@ html {
 
 .page__content p,.page__content li,.page__content dl{
     font-size:0.75em;
+}
+table{
+  margin-bottom: 3em;
+}
+table thead{
+  background-color:transparent;
+  border-bottom: none;
+}
+table tbody tr td{
+  border-bottom: 1px dashed #d9d9d8;
+  line-height: 1.5;
+  font-weight: lighter;
+  font-family: 'Neucha','';
+  font-size: 1em;
+  letter-spacing: .7px;
+}
+table tbody tr:first-child td{
+  border-top: 1px dashed #d9d9d8;
+}
+table tbody tr td:first-child{
+  font-weight: bold;
+}
+blockquote {
+  border-left: 4px solid #cec4d7;
+  margin: 0 0 24px;
+  padding-left: 20px;
+  font-style: normal
 }
