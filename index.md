@@ -17,6 +17,9 @@ client-logo:
 >  **베니크레비즈** 광고대행사 Publisher `(2016.12~)`  
       `광고디자인`, `응용소프트웨어 개발 및 공급`, `웹사이트 개발`, `광고및홍보대행업`
 
+<i class="fa fa-moon fa-1x"></i> **Skill**   
+> `#HTML` `#CSS` `#Sass` `#jQuery` `#Javascript` `#React`
+
 <i class="fa fa-graduation-cap fa-1x"></i> **학력**   
 >**ACTS** 기독교교육학과 `(2012.03 ~ 2016.02)`  
 
@@ -28,57 +31,59 @@ client-logo:
 >|---:          |:---
 |Period        |2017.01 ~ 07
 |Position(Role)|퍼블리셔 (100%)                                                                         
-|Technology    |HTML, CSS, jQuery, javascript, swipe
-|Description   |웹, 모바일, 앱으로 구성 / 기획, 개발팀과 함께 단독 구현으로 프로젝트를 진행하였습니다. 
+|Technology    |HTML, CSS, jQuery, javascript
 |Url           |[http://www.smartlensfinder.co.kr/](http://www.smartlensfinder.co.kr/){:target="_blank"}
+|Description   |- 캐논에서 제조하고 판매되는 렌즈를 탐색하고 스펙정보를 비교 할 수 있는 서비스<br/>- 웹, 모바일, 어드민, 하이브리드 앱 구현<br/>- 모바일, 앱에서 스와이프 기능 구현<br/>- 기획, 디자인, 개발팀과 협업
+|Description   |웹, 모바일, 앱으로 구성 / 기획, 개발팀과 함께 단독 구현으로 프로젝트를 진행하였습니다.
 
 ![logo](/assets/images/logo/canonwindow_logo.png){: width="100" height="40"} `Canon Window`
 >|---:          |:---
 |Period        |2017.06 ~ 10
 |Position(Role)|퍼블리셔 (100%)
 |Technology    |HTML, CSS, jQuery, javascript
-|Description   |앱 / 기획, 개발팀과 함께 단독 구현으로 프로젝트를 진행하였습니다. 
 |Url           |[https://play.google.com/store/apps/details?id=kr.co.canonci.canonwindow&hl=ko](https://play.google.com/store/apps/details?id=kr.co.canonci.canonwindow&hl=ko){:target="_blank"}  [https://itunes.apple.com/us/app/canon-window/id1153921989?l=ko&ls=1&mt=8](https://itunes.apple.com/us/app/canon-window/id1153921989?l=ko&ls=1&mt=8){:target="_blank"}  [http://app.canonwindow.com/](http://app.canonwindow.com/){:target="_blank"}
+|Description   |- 본사의 여러 마케팅 정보를 현장 판매사원분에게 전달함과 동시에 좀 더 나은 sales 환경을 만들고자 하는 상호소통의 의미를 담은 모바일 어플리케이션<br/>- 앱, 어드민 구현
+|Description   |앱 / 기획, 개발팀과 함께 단독 구현으로 프로젝트를 진행하였습니다. 
 
 ![logo](/assets/images/logo/nicepay_logo.png){: width="100" height="40"} `nicepay`
 >|---:          |:---
 |Period        |2018. 08 ~ 12
 |Position(Role)|퍼블리셔 (100%)
 |Technology    |HTML, CSS, jQuery, javascript
-|Description   |NICE페이먼츠 PC표준결제창 고도화 디자인 리뉴얼  웹표준, 웹접근성, 웹호환성(크로스브라우징) 준수
 |Url           |[https://www.nicepay.co.kr/support/demo/pcReqPopup.do](https://www.nicepay.co.kr/support/demo/pcReqPopup.do){:target="_blank"}
+|Description   |NICE페이먼츠 PC표준결제창 고도화 디자인 리뉴얼  웹표준, 웹접근성, 웹호환성(크로스브라우징) 준수
 
 ![logo](/assets/images/logo/payletter_logo.png){: width="100" height="40"} `payletter`
 >|---:          |:---
 |Period        |2018. 05 ~ 07
 |Position(Role)|퍼블리셔 (100%)
 |Technology    |HTML, CSS, jQuery, javascript
-|Description   |결제수단별 표준결제창  웹표준, 웹접근성, 웹호환성(크로스브라우징) 준수
 |Url           |[https://stagepg.payletter.com/pgsvc/pgtest/PGSelectFrm.asp](https://stagepg.payletter.com/pgsvc/pgtest/PGSelectFrm.asp){:target="_blank"}
+|Description   |결제수단별 표준결제창  웹표준, 웹접근성, 웹호환성(크로스브라우징) 준수
 
 ![logo](/assets/images/logo/monstervr_logo.png){: width="100" height="40"} `몬스터VR`
 >|---:          |:---
 |Period        |2017. 03 ~ 08
 |Position(Role)|퍼블리셔 (100%)
 |Technology    |HTML, CSS, jQuery, javascript
-|Description   |몬스터VR Management System
 |Url           |[http://qa-manager.monstervr.co.kr](http://qa-manager.monstervr.co.kr){:target="_blank"}  (ID:jwyang@payletter.com / PW:qwER12#$)
+|Description   |- 몬스터VR Management System<br/>- VR플랫폼을 이용하는 파트너들이 시스템을 관리 및 경영하는 서비스(코인, 문의, 컨텐츠)
 
 ![logo](/assets/images/logo/kosha_logo.png){: width="100" height="40"} `안전보건공단(KOSHA)`
 >|---:          |:---
 |Period        |2017. 09 ~12 (2018. 05 완료)
 |Position(Role)|퍼블리셔 (100%)
 |Technology    |HTML, CSS, jQuery, javascript
-|Description   |BITcare 안전보건공단 통합시스템, 닷넷(.NET Framework)
 |Url           |[http://dev.a-ulrim.bitcare.kr/](http://dev.a-ulrim.bitcare.kr/){:target="_blank"}  (ID:김형재 / PW:1111)
+|Description   |- KOSHA 안전보건공단 통합전산시스템<br/>- 공단과 근로자건강센터간의 통합 업무 전산망<br/>- 설문, 프린트팝업, 게시판, 근로자관리 마크업구현 등
 
 ![logo](/assets/images/logo/bitcarePlus_logo.png){: width="100" height="40"} `비트케어 Plus`
 >|---:          |:---
 |Period        |2018. 05 ~ 07
 |Position(Role)|퍼블리셔 (100%)
 |Technology    |HTML, CSS, jQuery, javascript
-|Description   |BITcare Plus Brazil, 닷넷(.NET Framework)
-|Url           |[http://brazil.bitcare.kr](http://brazil.bitcare.kr){:target="_blank"}  (ID:doctor2 / PW:1111)
+|Url           |[http://brazil.bitcare.kr](http://brazil.bitcare.kr){:target="_blank"}  (ID:admin / PW:1111)
+|Description   |BITcare Plus Brazil
 
 ![logo](/assets/images/logo/tobot_logo.png){: width="100" height="40"} `또봇V 빅 페스티벌`
 >|---:          |:---
