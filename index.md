@@ -14,7 +14,7 @@ client-logo:
 머머, 머머 그리고 머머를 좋아하는 머머머입니다. 최근에는 머머하는것에 관심이 많습니다. 반갑습니다 :-)
 
 <i class="fa fa-briefcase fa-1x"></i> **경력**
->  **베니크레비즈** 광고대행사 Publisher `(2016.12~)`  
+>  **베니크레비즈** 광고대행사 `(2016.12~)`  
       `광고디자인`, `응용소프트웨어 개발 및 공급`, `웹사이트 개발`, `광고및홍보대행업`
 
 <i class="fa fa-moon fa-1x"></i> **Skill**   
@@ -26,6 +26,24 @@ client-logo:
 <!-- <i class="fa fa-moon fa-1x"></i> Moonlight **Side Job** -->
 
 ## <i class="fa fa-briefcase fa-1x"></i> Work Experience
+
+![logo](/assets/images/logo/golfncultureApp_logo.png){: width="100" height="40"} `골프문화상품권 App`
+>|---:          |:---
+|Period        |2019.08 ~ 11
+|Position(Role)|퍼블리셔 (100%)
+|Technology    |HTML, CSS, jQuery, javascript
+|Url           |[http://venicb.co.kr/test_hy/golfnculture_marketMove.html](http://venicb.co.kr/test_hy/golfnculture_marketMove.html){:target="_blank"}
+|Description   |- 골프존에서 발행하는 골프문화상품권을 구매 및 선물하는 모바일 어플리케이션<br/>- 하이브리드 앱
+|Description   |앱 / 기획, 개발팀과 함께 단독 구현으로 프로젝트를 진행하였습니다.
+
+![logo](/assets/images/logo/koshaApp_logo.png){: width="100" height="40"} `안전보건공단 App`
+>|---:          |:---
+|Period        |2019.08 ~ 12
+|Position(Role)|퍼블리셔 (100%)
+|Technology    |HTML, CSS, jQuery, javascript
+|Url           |[http://m.a-ulrim.bitcare.kr](http://m.a-ulrim.bitcare.kr){:target="_blank"} (ID:workerLink / PW:!QAZ2wsx3edc)
+|Description   |- 안전보건공단 근로자건강센터 근로자 맞춤형 건강관리 모바일 어플리케이션
+|Description   |앱 / 기획, 개발팀과 함께 단독 구현으로 프로젝트를 진행하였습니다.
 
 ![logo](/assets/images/logo/smartlensfinder_logo.png){: width="100" height="40"} `Canon SmartLensFinder`
 >|---:          |:---
@@ -76,6 +94,14 @@ client-logo:
 |Technology    |HTML, CSS, jQuery, javascript
 |Url           |[http://dev.a-ulrim.bitcare.kr/](http://dev.a-ulrim.bitcare.kr/){:target="_blank"}  (ID:김형재 / PW:1111)
 |Description   |- KOSHA 안전보건공단 통합전산시스템<br/>- 공단과 근로자건강센터간의 통합 업무 전산망<br/>- 설문, 프린트팝업, 게시판, 근로자관리 마크업구현 등
+
+![logo](/assets/images/logo/mongolia_logo.png){: width="100" height="40"} `몽골사후관리`
+>|---:          |:---
+|Period        |2019. 09 ~10
+|Position(Role)|퍼블리셔 (100%)
+|Technology    |HTML, CSS, jQuery, javascript
+|Url           |[http://pcc.personal.bitcare.kr](http://pcc.personal.bitcare.kr){:target="_blank"}  (총괄관리자 : superadmin / !QAZ2wsx3edc, 병원관리자 : admin / !QAZ2wsx3edc, 환자 : patient /  !QAZ2wsx3edc)
+|Description   |- Mongolia post-care center<br/>-  진료 예약 신청 페이지<br/>- 게시판,  계정관리 마크업구현 등
 
 ![logo](/assets/images/logo/bitcarePlus_logo.png){: width="100" height="40"} `비트케어 Plus`
 >|---:          |:---
