@@ -26,7 +26,7 @@ client-logo:
 <i class="fa fa-moon fa-1x"></i> **Toy Project**
 > 계란한판
 
-<i class="fa fa-briefcase fa-1x"></i> Work Experience
+<i class="fa fa-briefcase fa-1x"></i> **Work Experience**
 
 ![logo](/assets/images/logo/golfncultureApp_logo.png){: width="100" height="40"} `골프문화상품권 App`
 >|---:          |:---
@@ -112,6 +112,14 @@ client-logo:
 |Url           |[http://brazil.bitcare.kr](http://brazil.bitcare.kr){:target="_blank"}  (ID:admin / PW:1111)
 |Description   |BITcare Plus Brazil
 
+![logo](/assets/images/logo/golfzonglobal_logo.png){: width="100" height="40"} `골프존 글로벌`
+>|---:          |:---
+|Period        |2017 ~ 현재
+|Position(Role)|퍼블리셔 (100%)
+|Technology    |HTML, CSS, jQuery, javascript
+|Description   |웹, 모바일, 관리자 (유지보수) / 반응형
+|Url           |[http://golfzongolf.com](http://golfzongolf.com){:target="_blank"}
+
 ![logo](/assets/images/logo/tobot_logo.png){: width="100" height="40"} `또봇V 빅 페스티벌` ![logo](/assets/images/logo/bbb_logo.png){: width="100" height="40"} `베이블레이드 - 골든티켓을 찾아라!`
 >|---:          |:---
 |Period        |2018. 10
@@ -127,14 +135,6 @@ client-logo:
 |Technology    |HTML, CSS, jQuery, javascript
 |Description   |웹, 모바일, 관리자 (구축 및 유지보수)
 |Url           |[https://www.lolsurprise.co.kr/](https://www.lolsurprise.co.kr/){:target="_blank"}
-
-![logo](/assets/images/logo/golfzonglobal_logo.png){: width="100" height="40"} `골프존 글로벌`
->|---:          |:---
-|Period        |2017 ~ 현재
-|Position(Role)|퍼블리셔 (100%)
-|Technology    |HTML, CSS, jQuery, javascript
-|Description   |웹, 모바일, 관리자 (유지보수) / 반응형
-|Url           |[http://golfzongolf.com](http://golfzongolf.com){:target="_blank"}
 
 ![logo](/assets/images/logo/noble_logo.png){: width="100" height="40"} `노블커피`
 >|---:          |:---
@@ -152,29 +152,21 @@ client-logo:
 |Description   |웹, 모바일 (유지보수)
 |Url           |[www.koreaaero.com](www.koreaaero.com){:target="_blank"}
 
-![logo](/assets/images/logo/golfnculture_logo.png){: width="100" height="40"} `골프문화상품권`
+![logo](/assets/images/logo/nexperience_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/newdinmedart_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/fishinfjoy_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/screenGlofzon_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/kidamo_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfnculture_logo.png){: width="100" height="40"}
 >|---:          |:---
-|Period        |2017 ~ 현재
-|Position(Role)|퍼블리셔 (100%)
-|Technology    |HTML, CSS, jQuery, javascript
-|Description   |웹, 모바일 (유지보수)
-|Url           |[http://www.golfnculture.com/](http://www.golfnculture.com/){:target="_blank"}
-
-![logo](/assets/images/logo/nexperience_logo.png){: width="100" height="40"} `골프존 NEXPERIENCE` ![logo](/assets/images/logo/newdinmedart_logo.png){: width="100" height="40"} `뉴딘미다트(구.키즈마루)` ![logo](/assets/images/logo/fishinfjoy_logo.png){: width="100" height="40"} `피싱조이` ![logo](/assets/images/logo/screenGlofzon_logo.png){: width="100" height="40"} `스크린골프존` ![logo](/assets/images/logo/kidamo_logo.png){: width="100" height="40"} `키다모`
->|---:          |:---
-|Period        |2017. 01 ~ 02<br>2017. 06<br>2017. 08 ~ 09<br>2018. 02<br>2018. 11
+|Period        |2017. 01 ~ 02<br>2017. 06<br>2017. 08 ~ 09<br>2018. 02<br>2018. 11<br>2017 ~ 현재
 |Position(Role)|퍼블리셔 (100%)
 |Technology    |HTML, CSS, jQuery, javascript
 |Description   |웹, 모바일 (구축 및 유지보수)
-|Url           |서비스종료<br/>[http://www.newdinmedart.com/](http://www.newdinmedart.com/){:target="_blank"}<br>[http://www.thefishingjoy.com/](http://www.thefishingjoy.com/){:target="_blank"}<br>[http://tv.golfzon.com/](http://tv.golfzon.com/){:target="_blank"}<br>[http://www.kidamo.co.kr/](http://www.kidamo.co.kr/){:target="_blank"}
+|Url           |골프존 NEXPERIENCE 서비스종료<br/>[뉴딘미다트(구.키즈마루)](http://www.newdinmedart.com/){:target="_blank"}<br>[피싱조이](http://www.thefishingjoy.com/){:target="_blank"}<br>[스크린골프존](http://tv.golfzon.com/){:target="_blank"}<br>[키다모](http://www.kidamo.co.kr/){:target="_blank"}<br>[골프문화상품권](http://www.golfnculture.com/){:target="_blank"}
 
-![logo](/assets/images/logo/sealy_logo.png){: width="100" height="40"} `씰리침대` ![logo](/assets/images/logo/golfzonchina_logo.png){: width="100" height="40"} `골프존차이나` ![logo](/assets/images/logo/golfzonliteacademy_logo.png){: width="100" height="40"} `골프존엘리트아카데미` ![logo](/assets/images/logo/golfzonpark_logo.png){: width="100" height="40"} `골프존파크` ![logo](/assets/images/logo/golfzonnewdin_logo.png){: width="100" height="40"} `골프존뉴딘홀딩스` ![logo](/assets/images/logo/golfzoncompany_logo.png){: width="100" height="40"} `골프존컴퍼니`
+![logo](/assets/images/logo/sealy_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfzonchina_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfzonliteacademy_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfzonpark_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfzonnewdin_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfzoncompany_logo.png){: width="100" height="40"}
 >|---:          |:----------------------------------------------------------------------------------------------------------
 |Period        |2016. 12 ~ 2019
 |Position(Role)|퍼블리셔 (100%)
 |Technology    |HTML, CSS, jQuery, javascript
 |Description   |유지보수
-|Url           |[http://www.sealy.co.kr/](http://www.sealy.co.kr/){:target="_blank"}<br/>[http://chinese.golfzon.com/CN/Default.aspx](http://chinese.golfzon.com/CN/Default.aspx){:target="_blank"}<br>[http://www.golfzoneliteacademy.com/](http://www.golfzoneliteacademy.com/){:target="_blank"}<br>[http://www.golfzonpark.com/](http://www.golfzonpark.com/){:target="_blank"}<br>[https://www.golfzonnewdin.com/](https://www.golfzonnewdin.com/){:target="_blank"}<br>[http://company.golfzon.com/GFZ/Default.aspx](http://company.golfzon.com/GFZ/Default.aspx){:target="_blank"}
+|Url           |[씰리침대](http://www.sealy.co.kr/){:target="_blank"}<br/>[골프존차이나](http://chinese.golfzon.com/CN/Default.aspx){:target="_blank"}<br>[골프존엘리트아카데미](http://www.golfzoneliteacademy.com/){:target="_blank"}<br>[골프존파크](http://www.golfzonpark.com/){:target="_blank"}<br>[골프존뉴딘홀딩스](https://www.golfzonnewdin.com/){:target="_blank"}<br>[골프존컴퍼니](http://company.golfzon.com/GFZ/Default.aspx){:target="_blank"}
 
 ![logo](/assets/images/logo/molinillo_logo_web.png){: width="100" height="40"} `모리닐로`
 >|---:          |:---
