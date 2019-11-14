@@ -11,7 +11,7 @@ client-logo:
 
 ## About (TL;DR)
 ---
-머머, 머머 그리고 머머를 좋아하는 머머머입니다. 최근에는 머머하는것에 관심이 많습니다. 반갑습니다 :-)
+자바스크립트를 좋아하며 프론트엔지니어가 되려고 하는 박하영입니다. 최근에는 타입스크립트, 리액트 그리고 클린 코드에 관심이 많습니다. 반갑습니다 :-)
 
 <i class="fa fa-briefcase fa-1x"></i> **경력**
 >  **베니크레비즈** 광고대행사 `(2016.12~)`  
@@ -247,18 +247,10 @@ client-logo:
 |Description   |유지보수
 |Url           |[https://www.golfzonnewdin.com/](https://www.golfzonnewdin.com/){:target="_blank"}
 
-![logo](/assets/images/logo/golfzonchina_logo.png){: width="100" height="40"} `골프존차이나`
->|---:          |:---
-|Period        |
-|Position(Role)|퍼블리셔 (100%)
-|Technology    |HTML, CSS, jQuery, javascript
-|Description   |유지보수
-|Url           |[http://chinese.golfzon.com/CN/Default.aspx](http://chinese.golfzon.com/CN/Default.aspx){:target="_blank"}
-
-![logo](/assets/images/logo/sealy_logo.png){: width="100" height="40"} `씰리침대`
+![logo](/assets/images/logo/sealy_logo.png){: width="100" height="40"} `씰리침대` ![logo](/assets/images/logo/golfzonchina_logo.png){: width="100" height="40"} `골프존차이나`
 >|---:          |:----------------------------------------------------------------------------------------------------------
 |Period        |
 |Position(Role)|퍼블리셔 (100%)
 |Technology    |HTML, CSS, jQuery, javascript
 |Description   |유지보수
-|Url           |[http://www.sealy.co.kr/](http://www.sealy.co.kr/){:target="_blank"}
+|Url           |[http://www.sealy.co.kr/](http://www.sealy.co.kr/){:target="_blank"}<br/>[http://chinese.golfzon.com/CN/Default.aspx](http://chinese.golfzon.com/CN/Default.aspx){:target="_blank"}
