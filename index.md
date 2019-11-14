@@ -11,7 +11,7 @@ client-logo:
 
 ## About (TL;DR)
 ---
-자바스크립트를 좋아하며 프론트엔지니어가 되려고 하는 박하영입니다. 최근에는 타입스크립트, 리액트 그리고 클린 코드에 관심이 많습니다. 반갑습니다 :-)
+자바스크립트를 좋아하며 프론트엔지니어가 되려고하는 박하영입니다.<br>최근에는 타입스크립트, 리액트 그리고 클린 코드에 관심이 많습니다. 반갑습니다 :-)
 
 <i class="fa fa-briefcase fa-1x"></i> **경력**
 >  **베니크레비즈** 광고대행사 `(2016.12~)`  
@@ -111,21 +111,13 @@ client-logo:
 |Url           |[http://brazil.bitcare.kr](http://brazil.bitcare.kr){:target="_blank"}  (ID:admin / PW:1111)
 |Description   |BITcare Plus Brazil
 
-![logo](/assets/images/logo/tobot_logo.png){: width="100" height="40"} `또봇V 빅 페스티벌`
+![logo](/assets/images/logo/tobot_logo.png){: width="100" height="40"} `또봇V 빅 페스티벌` ![logo](/assets/images/logo/bbb_logo.png){: width="100" height="40"} `베이블레이드 - 골든티켓을 찾아라!`
 >|---:          |:---
 |Period        |2018. 10
 |Position(Role)|퍼블리셔 (100%)
 |Technology    |HTML, CSS, jQuery, javascript
-|Description   |난수이벤트 페이지
+|Description   |본인인증 후 쿠폰번호를 입력해 당첨결과를 확인하는 난수이벤트 페이지
 |Url           |(이벤트종료)
-
-![logo](/assets/images/logo/bbb_logo.png){: width="100" height="40"} `베이블레이드 - 골든티켓을 찾아라!`
->|---:          |:---
-|Period        |2019. 04
-|Position(Role)|퍼블리셔 (100%)
-|Technology    |HTML, CSS, jQuery, javascript
-|Description   |난수이벤트 페이지
-|Url           |[https://bbbgoldenticket.com/](https://bbbgoldenticket.com/){:target="_blank"}
 
 ![logo](/assets/images/logo/lol_logo.png){: width="100" height="40"} `L.O.L. 서프라이즈`
 >|---:          |:---
@@ -215,42 +207,10 @@ client-logo:
 |Description   |웹, 모바일(구축)
 |Url           |서비스 종료
 
-![logo](/assets/images/logo/golfzoncompany_logo.png){: width="100" height="40"} `골프존컴퍼니`
->|---:          |:---
-|Period        |
-|Position(Role)|퍼블리셔 (100%)
-|Technology    |HTML, CSS, jQuery, javascript
-|Description   |유지보수
-|Url           |[http://company.golfzon.com/GFZ/Default.aspx](http://company.golfzon.com/GFZ/Default.aspx){:target="_blank"}
-
-![logo](/assets/images/logo/golfzonpark_logo.png){: width="100" height="40"} `골프존파크`
->|---:          |:---
-|Period        |
-|Position(Role)|퍼블리셔 (100%)
-|Technology    |HTML, CSS, jQuery, javascript
-|Description   |유지보수
-|Url           |[http://www.golfzonpark.com/](http://www.golfzonpark.com/){:target="_blank"}
-
-![logo](/assets/images/logo/golfzonliteacademy_logo.png){: width="100" height="40"} `골프존엘리트아카데미`
->|---:          |:---
-|Period        |
-|Position(Role)|퍼블리셔 (100%)
-|Technology    |HTML, CSS, jQuery, javascript
-|Description   |유지보수
-|Url           |[http://www.golfzoneliteacademy.com/](http://www.golfzoneliteacademy.com/){:target="_blank"}
-
-![logo](/assets/images/logo/golfzonnewdin_logo.png){: width="100" height="40"} `골프존뉴딘홀딩스`
->|---:          |:---
-|Period        |
-|Position(Role)|퍼블리셔 (100%)
-|Technology    |HTML, CSS, jQuery, javascript
-|Description   |유지보수
-|Url           |[https://www.golfzonnewdin.com/](https://www.golfzonnewdin.com/){:target="_blank"}
-
-![logo](/assets/images/logo/sealy_logo.png){: width="100" height="40"} `씰리침대` ![logo](/assets/images/logo/golfzonchina_logo.png){: width="100" height="40"} `골프존차이나`
+![logo](/assets/images/logo/sealy_logo.png){: width="100" height="40"} `씰리침대` ![logo](/assets/images/logo/golfzonchina_logo.png){: width="100" height="40"} `골프존차이나` ![logo](/assets/images/logo/golfzonliteacademy_logo.png){: width="100" height="40"} `골프존엘리트아카데미` ![logo](/assets/images/logo/golfzonpark_logo.png){: width="100" height="40"} `골프존파크` ![logo](/assets/images/logo/golfzonnewdin_logo.png){: width="100" height="40"} `골프존뉴딘홀딩스` ![logo](/assets/images/logo/golfzoncompany_logo.png){: width="100" height="40"} `골프존컴퍼니`
 >|---:          |:----------------------------------------------------------------------------------------------------------
 |Period        |
 |Position(Role)|퍼블리셔 (100%)
 |Technology    |HTML, CSS, jQuery, javascript
 |Description   |유지보수
-|Url           |[http://www.sealy.co.kr/](http://www.sealy.co.kr/){:target="_blank"}<br/>[http://chinese.golfzon.com/CN/Default.aspx](http://chinese.golfzon.com/CN/Default.aspx){:target="_blank"}
+|Url           |[http://www.sealy.co.kr/](http://www.sealy.co.kr/){:target="_blank"}<br/>[http://chinese.golfzon.com/CN/Default.aspx](http://chinese.golfzon.com/CN/Default.aspx){:target="_blank"}<br>[http://www.golfzoneliteacademy.com/](http://www.golfzoneliteacademy.com/){:target="_blank"}<br>[http://www.golfzonpark.com/](http://www.golfzonpark.com/){:target="_blank"}<br>[https://www.golfzonnewdin.com/](https://www.golfzonnewdin.com/){:target="_blank"}<br>[http://company.golfzon.com/GFZ/Default.aspx](http://company.golfzon.com/GFZ/Default.aspx){:target="_blank"}
