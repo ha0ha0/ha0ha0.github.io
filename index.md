@@ -159,21 +159,15 @@ client-logo:
 |Description   |cafe24솔루션(유지보수)
 |Url           |[http://themolinillo.com/](http://themolinillo.com/){:target="_blank"}
 
-[![logo](/assets/images/logo/newdinmedart_logo.png){: width="100" height="40" target="_blank"}](http://www.newdinmedart.com/"뉴딘미다트")
-
-![logo](/assets/images/logo/nexperience_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/newdinmedart_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/fishinfjoy_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/screenGlofzon_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/kidamo_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfnculture_logo.png){: width="100" height="40"}
->|---:          |:---
-|Period        |2017. 01 ~ 02<br>2017. 06<br>2017. 08 ~ 09<br>2018. 02<br>2018. 11<br>2017 ~ 현재
-|Position(Role)|퍼블리셔 (100%)
-|Technology    |HTML, CSS, jQuery, javascript
-|Description   |웹, 모바일 (구축 및 유지보수)
-|Url           |골프존 NEXPERIENCE 서비스종료<br/>[뉴딘미다트(구.키즈마루)](http://www.newdinmedart.com/){:target="_blank"}<br>[피싱조이](http://www.thefishingjoy.com/){:target="_blank"}<br>[스크린골프존](http://tv.golfzon.com/){:target="_blank"}<br>[키다모](http://www.kidamo.co.kr/){:target="_blank"}<br>[골프문화상품권](http://www.golfnculture.com/){:target="_blank"}
-
-![logo](/assets/images/logo/sealy_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfzonchina_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfzonliteacademy_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfzonpark_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfzonnewdin_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfzoncompany_logo.png){: width="100" height="40"}
->|---:          |:----------------------------------------------------------------------------------------------------------
-|Period        |2016. 12 ~ 2019
-|Position(Role)|퍼블리셔 (100%)
-|Technology    |HTML, CSS, jQuery, javascript
-|Description   |유지보수
-|Url           |[씰리침대](http://www.sealy.co.kr/){:target="_blank"}<br/>[골프존차이나](http://chinese.golfzon.com/CN/Default.aspx){:target="_blank"}<br>[골프존엘리트아카데미](http://www.golfzoneliteacademy.com/){:target="_blank"}<br>[골프존파크](http://www.golfzonpark.com/){:target="_blank"}<br>[골프존뉴딘홀딩스](https://www.golfzonnewdin.com/){:target="_blank"}<br>[골프존컴퍼니](http://company.golfzon.com/GFZ/Default.aspx){:target="_blank"}
-
+[![logo](/assets/images/logo/newdinmedart_logo.png){: width="100" height="40"}](http://www.newdinmedart.com/ "뉴딘미다트"){:target="_blank"}
+[![logo](/assets/images/logo/nexperience_logo.png){: width="100" height="40"}]( "넥스피리언스")
+[![logo](/assets/images/logo/fishinfjoy_logo.png){: width="100" height="40"}](http://www.thefishingjoy.com/ "피싱조이"){:target="_blank"}
+[![logo](/assets/images/logo/screenGlofzon_logo.png){: width="100" height="40"}](http://tv.golfzon.com/ "스크린골프"){:target="_blank"}
+[![logo](/assets/images/logo/kidamo_logo.png){: width="100" height="40"}](http://www.kidamo.co.kr/ "키다모"){:target="_blank"}
+[![logo](/assets/images/logo/golfnculture_logo.png){: width="100" height="40"}](http://www.golfnculture.com/ "골프문화상품권"){:target="_blank"}
+[![logo](/assets/images/logo/sealy_logo.png){: width="100" height="40"}](http://www.sealy.co.kr/ "씰리침대"){:target="_blank"}
+[![logo](/assets/images/logo/golfzonchina_logo.png){: width="100" height="40"}](http://chinese.golfzon.com/CN/Default.aspx "골프존차이나"){:target="_blank"}
+[![logo](/assets/images/logo/golfzonliteacademy_logo.png){: width="100" height="40"}](http://www.golfzoneliteacademy.com/ "골프존엘리트아카데미"){:target="_blank"}
+[![logo](/assets/images/logo/golfzonpark_logo.png){: width="100" height="40"}](http://www.golfzonpark.com/ "골프존파크"){:target="_blank"}
+[![logo](/assets/images/logo/golfzonnewdin_logo.png){: width="100" height="40"}](https://www.golfzonnewdin.com/ "골프존뉴딘홀딩스"){:target="_blank"}
+[![logo](/assets/images/logo/golfzoncompany_logo.png){: width="100" height="40"}](http://company.golfzon.com/GFZ/Default.aspx "골프존컴퍼니"){:target="_blank"}
