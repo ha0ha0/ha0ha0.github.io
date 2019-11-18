@@ -11,6 +11,8 @@ client-logo:
 
 ## About (TL;DR)
 ---
+안녕하세요. 자바스크립트를 좋아하며 프론트엔드개발자가 되고 싶은 박하영입니다.
+요즘은 자바스크립트, 리액트에 관심이 많습니다. 반갑습니다 :-) 
 
 <i class="fa fa-briefcase fa-1x"></i> **경력**
 >  **베니크레비즈** 광고대행사 `(2016.12~)`  
@@ -160,14 +162,14 @@ client-logo:
 |Url           |[http://themolinillo.com/](http://themolinillo.com/){:target="_blank"}
 
 [![logo](/assets/images/logo/newdinmedart_logo.png){: width="100" height="40"}](http://www.newdinmedart.com/ "뉴딘미다트"){:target="_blank"}
-[![logo](/assets/images/logo/nexperience_logo.png){: width="100" height="40"}]( "넥스피리언스")
-[![logo](/assets/images/logo/fishinfjoy_logo.png){: width="100" height="40"}](http://www.thefishingjoy.com/ "피싱조이"){:target="_blank"}
-[![logo](/assets/images/logo/screenGlofzon_logo.png){: width="100" height="40"}](http://tv.golfzon.com/ "스크린골프"){:target="_blank"}
-[![logo](/assets/images/logo/kidamo_logo.png){: width="100" height="40"}](http://www.kidamo.co.kr/ "키다모"){:target="_blank"}
-[![logo](/assets/images/logo/golfnculture_logo.png){: width="100" height="40"}](http://www.golfnculture.com/ "골프문화상품권"){:target="_blank"}
-[![logo](/assets/images/logo/sealy_logo.png){: width="100" height="40"}](http://www.sealy.co.kr/ "씰리침대"){:target="_blank"}
-[![logo](/assets/images/logo/golfzonchina_logo.png){: width="100" height="40"}](http://chinese.golfzon.com/CN/Default.aspx "골프존차이나"){:target="_blank"}
-[![logo](/assets/images/logo/golfzonliteacademy_logo.png){: width="100" height="40"}](http://www.golfzoneliteacademy.com/ "골프존엘리트아카데미"){:target="_blank"}
-[![logo](/assets/images/logo/golfzonpark_logo.png){: width="100" height="40"}](http://www.golfzonpark.com/ "골프존파크"){:target="_blank"}
-[![logo](/assets/images/logo/golfzonnewdin_logo.png){: width="100" height="40"}](https://www.golfzonnewdin.com/ "골프존뉴딘홀딩스"){:target="_blank"}
-[![logo](/assets/images/logo/golfzoncompany_logo.png){: width="100" height="40"}](http://company.golfzon.com/GFZ/Default.aspx "골프존컴퍼니"){:target="_blank"}
+  [![logo](/assets/images/logo/nexperience_logo.png){: width="100" height="40"}]( "넥스피리언스")
+  [![logo](/assets/images/logo/fishinfjoy_logo.png){: width="100" height="40"}](http://www.thefishingjoy.com/ "피싱조이"){:target="_blank"}
+  [![logo](/assets/images/logo/screenGlofzon_logo.png){: width="100" height="40"}](http://tv.golfzon.com/ "스크린골프"){:target="_blank"}
+  [![logo](/assets/images/logo/kidamo_logo.png){: width="100" height="40"}](http://www.kidamo.co.kr/ "키다모"){:target="_blank"}
+  [![logo](/assets/images/logo/golfnculture_logo.png){: width="100" height="40"}](http://www.golfnculture.com/ "골프문화상품권"){:target="_blank"}
+  [![logo](/assets/images/logo/sealy_logo.png){: width="100" height="40"}](http://www.sealy.co.kr/ "씰리침대"){:target="_blank"}
+  [![logo](/assets/images/logo/golfzonchina_logo.png){: width="100" height="40"}](http://chinese.golfzon.com/CN/Default.aspx "골프존차이나"){:target="_blank"}
+  [![logo](/assets/images/logo/golfzonliteacademy_logo.png){: width="100" height="40"}](http://www.golfzoneliteacademy.com/ "골프존엘리트아카데미"){:target="_blank"}
+  [![logo](/assets/images/logo/golfzonpark_logo.png){: width="100" height="40"}](http://www.golfzonpark.com/ "골프존파크"){:target="_blank"}
+  [![logo](/assets/images/logo/golfzonnewdin_logo.png){: width="100" height="40"}](https://www.golfzonnewdin.com/ "골프존뉴딘홀딩스"){:target="_blank"}
+  [![logo](/assets/images/logo/golfzoncompany_logo.png){: width="100" height="40"}](http://company.golfzon.com/GFZ/Default.aspx "골프존컴퍼니"){:target="_blank"}
