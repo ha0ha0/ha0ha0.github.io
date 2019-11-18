@@ -11,7 +11,6 @@ client-logo:
 
 ## About (TL;DR)
 ---
-자바스크립트를 좋아하며 프론트엔지니어가 되려고하는 박하영입니다.<br>최근에는 타입스크립트, 리액트 그리고 클린 코드에 관심이 많습니다. 반갑습니다 :-)
 
 <i class="fa fa-briefcase fa-1x"></i> **경력**
 >  **베니크레비즈** 광고대행사 `(2016.12~)`  
@@ -152,6 +151,16 @@ client-logo:
 |Description   |웹, 모바일 (유지보수)
 |Url           |[www.koreaaero.com](www.koreaaero.com){:target="_blank"}
 
+![logo](/assets/images/logo/molinillo_logo_web.png){: width="100" height="40"} `모리닐로`
+>|---:          |:---
+|Period        |2018. 12
+|Position(Role)|퍼블리셔 (100%)
+|Technology    |HTML, CSS, jQuery, javascript
+|Description   |cafe24솔루션(유지보수)
+|Url           |[http://themolinillo.com/](http://themolinillo.com/){:target="_blank"}
+
+[![logo](/assets/images/logo/newdinmedart_logo.png){: width="100" height="40" target="_blank"}](http://www.newdinmedart.com/"뉴딘미다트")
+
 ![logo](/assets/images/logo/nexperience_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/newdinmedart_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/fishinfjoy_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/screenGlofzon_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/kidamo_logo.png){: width="100" height="40"} ![logo](/assets/images/logo/golfnculture_logo.png){: width="100" height="40"}
 >|---:          |:---
 |Period        |2017. 01 ~ 02<br>2017. 06<br>2017. 08 ~ 09<br>2018. 02<br>2018. 11<br>2017 ~ 현재
@@ -168,10 +177,3 @@ client-logo:
 |Description   |유지보수
 |Url           |[씰리침대](http://www.sealy.co.kr/){:target="_blank"}<br/>[골프존차이나](http://chinese.golfzon.com/CN/Default.aspx){:target="_blank"}<br>[골프존엘리트아카데미](http://www.golfzoneliteacademy.com/){:target="_blank"}<br>[골프존파크](http://www.golfzonpark.com/){:target="_blank"}<br>[골프존뉴딘홀딩스](https://www.golfzonnewdin.com/){:target="_blank"}<br>[골프존컴퍼니](http://company.golfzon.com/GFZ/Default.aspx){:target="_blank"}
 
-![logo](/assets/images/logo/molinillo_logo_web.png){: width="100" height="40"} `모리닐로`
->|---:          |:---
-|Period        |2018. 12
-|Position(Role)|퍼블리셔 (100%)
-|Technology    |HTML, CSS, jQuery, javascript
-|Description   |cafe24솔루션(유지보수)
-|Url           |[http://themolinillo.com/](http://themolinillo.com/){:target="_blank"}
