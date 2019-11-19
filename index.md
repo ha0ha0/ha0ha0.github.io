@@ -163,8 +163,6 @@ client-logo:
 
 `etc(구축 및 유지보수)`
 
-<div class="etc_box">
-
 [![logo](/assets/images/logo/newdinmedart_logo.png){: width="100" height="40"}](http://www.newdinmedart.com/ "뉴딘미다트"){:target="_blank"}
     [![logo](/assets/images/logo/nexperience_logo.png){: width="100" height="40"}]( "넥스피리언스")
     [![logo](/assets/images/logo/fishinfjoy_logo.png){: width="100" height="40"}](http://www.thefishingjoy.com/ "피싱조이"){:target="_blank"}
@@ -177,5 +175,3 @@ client-logo:
     [![logo](/assets/images/logo/golfzonpark_logo.png){: width="100" height="40"}](http://www.golfzonpark.com/ "골프존파크"){:target="_blank"}
     [![logo](/assets/images/logo/golfzonnewdin_logo.png){: width="100" height="40"}](https://www.golfzonnewdin.com/ "골프존뉴딘홀딩스"){:target="_blank"}
     [![logo](/assets/images/logo/golfzoncompany_logo.png){: width="100" height="40"}](http://company.golfzon.com/GFZ/Default.aspx "골프존컴퍼니"){:target="_blank"}
-
-</div>
