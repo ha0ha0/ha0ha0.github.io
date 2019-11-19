@@ -9,7 +9,7 @@
 @import url('https://fonts.googleapis.com/css?family=Neucha');
 
 
-* {font-family:"Noto Sans KR", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif,/*'BM JUA', 'nanumGothic', 'Dotum', sans-serif;*//*letter-spacing:-1px;*/}
+* {font-family:/*"Noto Sans KR",*/"Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif}
 html {
     font-size: 14px; // change to whatever
 
@@ -25,6 +25,7 @@ html {
       font-size: 20px; // change to whatever
     }
 }
+.archive__item-title{font-size: 1em;}
 
 .page__content p,.page__content li,.page__content dl{
     font-size:0.75em;
