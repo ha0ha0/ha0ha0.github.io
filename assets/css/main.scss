@@ -52,8 +52,15 @@ table tbody tr td:first-child{
   font-weight: bold;
 }
 blockquote {
-  border-left: 4px solid #ddd;
+  border-left: 4px solid #aaa;
   margin: 0 0 24px;
   padding-left: 20px;
   font-style: normal
+}
+.etc_box{
+  padding:10px;
+  background-color:#aaa;
+}
+.etc_box a{
+  margin-right:20px;
 }
