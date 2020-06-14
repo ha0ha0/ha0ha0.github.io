@@ -25,7 +25,7 @@ client-logo:
 > **ACTS** 기독교교육학과 `(2012.03 ~ 2016.02)`  
 
 <i class="fa fa-moon fa-1x"></i> **Toy Project**
-> 계란한판
+> 계란한판<https://ha0ha0.github.io/toyproject/post-7/>{:target="_blank"}
 
 <i class="fa fa-briefcase fa-1x"></i> **Work Experience**
 
